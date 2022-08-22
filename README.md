@@ -1,2 +1,2 @@
-# bluefrog-dashboard
-Bluefrog control panel dashboard.
+# bfrog-dashboard
+Bfrog control panel dashboard.
